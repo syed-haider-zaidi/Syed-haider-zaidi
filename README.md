@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Haider Zaidi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<img align="right" alt="coding" width="400" src= "![17595858728916906969858534423613](https://github.com/user-attachments/assets/ab26e3f9-f95a-4aa7-b07e-4990496019c3)"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syed-haider-zaidi&label=Profile%20views&color=0e75b6&style=flat" alt="syed-haider-zaidi" /> </p>
 
